@@ -1,4 +1,4 @@
-# TSC Materials for [PROJECT NAME]
+# TSC Materials for openLEADR
 
 This directory contains the meeting notes, process documentations, and other materials related to this project.
 
